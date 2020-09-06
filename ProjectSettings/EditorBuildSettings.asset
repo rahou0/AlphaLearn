@@ -1,0 +1,158 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/KinectStage/GameHome.unity
+    guid: b6e3dc3e45366834087722cde407f8f3
+  - enabled: 1
+    path: Assets/Scenes/KinectStage/Home.unity
+    guid: 88c096c888cb50e46aa2fa91eac1e0ab
+  - enabled: 1
+    path: Assets/Scenes/KinectStage/Easy/GestureEasyLvl1.unity
+    guid: ccd7b48ccfa0f7846b8c332a988e840e
+  - enabled: 1
+    path: Assets/Scenes/KinectStage/Easy/GestureEasyLvl2.unity
+    guid: eb71b1ff5cf8ddc478cfaed3a0afb75b
+  - enabled: 1
+    path: Assets/Scenes/KinectStage/Easy/GestureEasyLvl3.unity
+    guid: 329ff14d1c209554abfcf0715e1b8342
+  - enabled: 1
+    path: Assets/Scenes/KinectStage/Easy/GestureEasyLvl4.unity
+    guid: ed80eb48e9e0f814b9c324a7e8d5e6c7
+  - enabled: 1
+    path: Assets/Scenes/KinectStage/Easy/GestureEasyLvl5.unity
+    guid: c0e4882be48cc194583907cd85a48c48
+  - enabled: 1
+    path: Assets/Scenes/KinectStage/Easy/GestureEasyLvl6.unity
+    guid: e2ceb41282379594eaa37f6d0040f4ce
+  - enabled: 1
+    path: Assets/Scenes/KinectStage/Medium/GestureMediumLvl1.unity
+    guid: 0bf6e2aa4614a32488f4a2af8c7fd2ff
+  - enabled: 1
+    path: Assets/Scenes/KinectStage/Medium/GestureMediumLvl2.unity
+    guid: 2a333e4837155b140be9f303c4df3be5
+  - enabled: 1
+    path: Assets/Scenes/KinectStage/Medium/GestureMediumLvl3.unity
+    guid: 2fbece33ddf570f4390dc666a1794547
+  - enabled: 1
+    path: Assets/Scenes/KinectStage/Medium/GestureMediumLvl4.unity
+    guid: f0383b806111dcf41a4358d48a1ec4fe
+  - enabled: 1
+    path: Assets/Scenes/KinectStage/Medium/GestureMediumLvl5.unity
+    guid: 60bcbad620225c945a30279f63dd742a
+  - enabled: 1
+    path: Assets/Scenes/KinectStage/Medium/GestureMediumLvl6.unity
+    guid: 5098d70b7445c874dab2f79b96493da5
+  - enabled: 1
+    path: Assets/Scenes/KinectStage/Hard/GestureHardLvl1.unity
+    guid: a2495743b494e8f4aa385b6c3fb648ff
+  - enabled: 1
+    path: Assets/Scenes/KinectStage/Hard/GestureHardLvl2.unity
+    guid: e1d071575f318ce4d92ba4f8e1bc1b2b
+  - enabled: 1
+    path: Assets/Scenes/KinectStage/Hard/GestureHardLvl3.unity
+    guid: 66cb2e9c9bb7452488d6a81a89d451fd
+  - enabled: 1
+    path: Assets/Scenes/KinectStage/Hard/GestureHardLvl4.unity
+    guid: 4317e4df0fd19d2408a950f1e5184c3c
+  - enabled: 1
+    path: Assets/Scenes/KinectStage/Hard/GestureHardLvl5.unity
+    guid: 25207206ce6ab7143b56f035aa3d8bc5
+  - enabled: 1
+    path: Assets/Scenes/KinectStage/Hard/GestureHardLvl6.unity
+    guid: 9493ce1ed374529428b765b928725550
+  - enabled: 1
+    path: Assets/Scenes/KinectStage/VeryHard/GestureVeryHardLvl1.unity
+    guid: 1cc1e1bfa3012be44965fa4f57417674
+  - enabled: 1
+    path: Assets/Scenes/KinectStage/VeryHard/GestureVeryHardLvl2.unity
+    guid: fb6346f46da603c489626a1c61aace48
+  - enabled: 1
+    path: Assets/Scenes/KinectStage/VeryHard/GestureVeryHardLvl3.unity
+    guid: d1b4704d3aaaa7744b01cdf825da0174
+  - enabled: 1
+    path: Assets/Scenes/KinectStage/VeryHard/GestureVeryHardLvl4.unity
+    guid: 0690b5064672020409838db8d173f03c
+  - enabled: 1
+    path: Assets/Scenes/KinectStage/VeryHard/GestureVeryHardLvl5.unity
+    guid: ecb89034c952f8c4a902452d49b26e6e
+  - enabled: 1
+    path: Assets/Scenes/KinectStage/VeryHard/GestureVeryHardLvl6.unity
+    guid: 484d5232211872946b35007c9efe1045
+  - enabled: 1
+    path: Assets/Scenes/SpeechStage/Easy/SpeechEasyLvl1.unity
+    guid: 95a89dba2eb65084fa2e989248894e09
+  - enabled: 1
+    path: Assets/Scenes/SpeechStage/Easy/SpeechEasyLvl2.unity
+    guid: accffbf348727e242803fa0dfe91a4c5
+  - enabled: 1
+    path: Assets/Scenes/SpeechStage/Easy/SpeechEasyLvl3.unity
+    guid: b25f44f82e1181547b4757340075f87a
+  - enabled: 1
+    path: Assets/Scenes/SpeechStage/Easy/SpeechEasyLvl4.unity
+    guid: d77e5b64100c6b041b4ea56e7936fd34
+  - enabled: 1
+    path: Assets/Scenes/SpeechStage/Easy/SpeechEasyLvl5.unity
+    guid: 38de55f5cd634234f8c12d08994402f0
+  - enabled: 1
+    path: Assets/Scenes/SpeechStage/Easy/SpeechEasyLvl6.unity
+    guid: 010647d6a2510324abda44abd22d10c3
+  - enabled: 1
+    path: Assets/Scenes/SpeechStage/Medium/SpeechMediumLvl1.unity
+    guid: ce48fec75927dc14e8ffa95f845ef649
+  - enabled: 1
+    path: Assets/Scenes/SpeechStage/Medium/SpeechMediumLvl2.unity
+    guid: 2153fcf7e48b7d24b987fdefa54e3041
+  - enabled: 1
+    path: Assets/Scenes/SpeechStage/Medium/SpeechMediumLvl3.unity
+    guid: c80031e35a61edf4ba16bd56a1abb2d0
+  - enabled: 1
+    path: Assets/Scenes/SpeechStage/Medium/SpeechMediumLvl4.unity
+    guid: bda770cf7117b2d41871c30f5957034c
+  - enabled: 1
+    path: Assets/Scenes/SpeechStage/Medium/SpeechMediumLvl5.unity
+    guid: 9d94608420877a94fa1624b858def9f6
+  - enabled: 1
+    path: Assets/Scenes/SpeechStage/Medium/SpeechMediumLvl6.unity
+    guid: 6f973de16000b3b4181ba32399be5375
+  - enabled: 1
+    path: Assets/Scenes/SpeechStage/Hard/SpeechHardLvl1.unity
+    guid: bcbcdd3893dc3bc4598e2d37962f0319
+  - enabled: 1
+    path: Assets/Scenes/SpeechStage/Hard/SpeechHardLvl2.unity
+    guid: 112d092c2baf7f6469028268954d2ef4
+  - enabled: 1
+    path: Assets/Scenes/SpeechStage/Hard/SpeechHardLvl3.unity
+    guid: 3563ff06a5b74b444bf36b525b6ee0e6
+  - enabled: 1
+    path: Assets/Scenes/SpeechStage/Hard/SpeechHardLvl4.unity
+    guid: 8aaff025f03fe51409cbb680f64a69c9
+  - enabled: 1
+    path: Assets/Scenes/SpeechStage/Hard/SpeechHardLvl5.unity
+    guid: 67f79a2df8c14b641a4431185e278e81
+  - enabled: 1
+    path: Assets/Scenes/SpeechStage/Hard/SpeechHardLvl6.unity
+    guid: 16558e6f9a4ecc64ab58c27baf1748d9
+  - enabled: 1
+    path: Assets/Scenes/SpeechStage/VeryHard/SpeechVeryHardLvl1.unity
+    guid: 8f355be2cb761d348adec4a759b07fa4
+  - enabled: 1
+    path: Assets/Scenes/SpeechStage/VeryHard/SpeechVeryHardLvl2.unity
+    guid: 225a9664d8be40344ae087ec766878fc
+  - enabled: 1
+    path: Assets/Scenes/SpeechStage/VeryHard/SpeechVeryHardLvl3.unity
+    guid: 1869f2d4e29bfdf429946893c5c3ee81
+  - enabled: 1
+    path: Assets/Scenes/SpeechStage/VeryHard/SpeechVeryHardLvl4.unity
+    guid: 0bfce309b187dc943ad614a520a45712
+  - enabled: 1
+    path: Assets/Scenes/SpeechStage/VeryHard/SpeechVeryHardLvl5.unity
+    guid: 4e5ab922d26417d4bb43c42de0dc40e0
+  - enabled: 1
+    path: Assets/Scenes/SpeechStage/VeryHard/SpeechVeryHardLvl6.unity
+    guid: 03dfba36a39fa8f4bb87949625be0c24
+  m_configObjects: {}
