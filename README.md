@@ -59,7 +59,8 @@ git clone https://github.com/rahou0/AlphaLearn.git
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-The learner listens to the sound that speaks the word and tries to form that word with cubes with alphabetic characters in their faces Scattered in the ground. The user can use several modalities to interact with the virtual learning environment such as hand gestures or speech for select and manipulate the cubes, as well as using his head or hand for navigating throw virtual space.
+The learner listens to the sound that speaks the word and tries to form that word with cubes with alphabetic characters in their faces Scattered in the ground. The user can use several modalities to interact with the virtual learning environment such as hand gestures or speech for select and manipulate the cubes, as well as using his head or hand for navigating throw virtual space. For more Details, please read the [Documentation](https://github.com/rahou0/AlphaLearn/blob/master/HAMANI%20ABDERAHIM.pdf)
+
 
 <br />
   <a href="https://github.com/rahou0/AlphaLearn">
@@ -75,9 +76,6 @@ The learner listens to the sound that speaks the word and tries to form that wor
     <img src="https://github.com/rahou0/AlphaLearn/blob/master/image4%20(2).png" alt="image" width="480" height="270">
   </a>
   
-  
-  For more Details, please read the [Documentation](https://github.com/rahou0/AlphaLearn/blob/master/HAMANI%20ABDERAHIM.pdf)
-
 <!-- LICENSE -->
 ## License
 
@@ -96,17 +94,8 @@ Project Link: [https://github.com/rahou0/AlphaLearn](https://github.comrahou0/Al
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Img Shields](https://shields.io)
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Pages](https://pages.github.com)
-* [Animate.css](https://daneden.github.io/animate.css)
-* [Loaders.css](https://connoratherton.com/loaders)
-* [Slick Carousel](https://kenwheeler.github.io/slick)
-* [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
-* [Sticky Kit](http://leafo.net/sticky-kit)
-* [JVectorMap](http://jvectormap.com)
-* [Font Awesome](https://fontawesome.com)
+* [Cristian Pop](http://boxophobic.com/)
+* [Michsky](https://github.com/Michsky/lomenui/releases)
 
 
 
