@@ -108,7 +108,7 @@ Project Link: [https://github.com/rahou0/AlphaLearn](https://github.comrahou0/Al
 [forks-shield]: https://img.shields.io/github/forks/rahou0/AlphaLearn.svg?style=flat-square
 [forks-url]: https://github.com/rahou0/AlphaLearn/network/members
 [stars-shield]: https://img.shields.io/github/stars/rahou0/AlphaLearn.svg?style=flat-square
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
+[stars-url]: https://github.com/rahou0/AlphaLearn/stargazers
 [issues-shield]: https://img.shields.io/github/issues/rahou0/AlphaLearn.svg?style=flat-square
 [issues-url]: https://github.com/rahou0/AlphaLearn/issues
 [license-shield]: https://img.shields.io/github/license/rahou0/AlphaLearn.svg?style=flat-square
