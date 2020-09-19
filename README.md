@@ -22,17 +22,17 @@
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
 * [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
   * [Installation](#installation)
 * [Usage](#usage)
-* [Contributing](#contributing)
 * [License](#license)
 * [Contact](#contact)
 * [Acknowledgements](#acknowledgements)
 ## About The Project
 
-![hello]
+![hi]
 In order to come up with a new 3D multimodal interaction paradigm of Natural user interface for virtual and augmented reality application, we built an Multimodal Virtual Reality educational game, in which a user or a learner can navigate or select and manipulate objects in three dimensional space. This immersive experience afforded by the 3D technology gives a learner unprecedented personal control over the learning environment. AlphaLearn use PC and KinectV2.
+
+AlphaLearn is a game that helps kids to learn how to write the pronounced word with boxes containing alphabetic characters. The kids will not use keyboard or mouse to reorder the alphabetic  characters, they will use their voice and hand gestures to control boxes.
 
 ### Built With
 * [Unity](https://unity.com/)
@@ -108,4 +108,5 @@ Project Link: [https://github.com/rahou0/AlphaLearn](https://github.comrahou0/Al
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
-[hello]: https://github.com/rahou0/AlphaLearn/blob/master/AlphaLearn.gif
+[hello]: https://github.com/rahou0/AlphaLearn/blob/master/selected%20box%20O.png
+[hi]: https://github.com/rahou0/AlphaLearn/blob/master/hi.png
