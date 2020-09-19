@@ -21,7 +21,7 @@
 * [Acknowledgements](#acknowledgements)
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+![hello]
 
 In order to come up with a new 3D multimodal interaction paradigm of Natural user interface for virtual and augmented reality application, we built an Multimodal Virtual Reality educational game, in which a user or a learner can navigate or select and manipulate objects in three dimensional space. This immersive experience afforded by the 3D technology gives a learner unprecedented personal control over the learning environment. AlphaLearn use PC and KinectV2.
 
@@ -30,33 +30,18 @@ In order to come up with a new 3D multimodal interaction paradigm of Natural use
 
 <!-- GETTING STARTED -->
 ## Getting Started
+Befor we start, This game require [Kinect V2](https://unity.com/) device to track the user hand and head movement. The kinect of XBOX one also can be used, since its concedered as kinect V2. to use kinect with PC u need to have Microsoft Kinect V2 Adapter for Windows, which its require USB 3.0 controller.
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-```sh
-npm install npm@latest -g
-```
 ### Installation
+1. Download and install [Kinect SDK 2.0](https://www.microsoft.com/en-us/download/details.aspx?id=44561).
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-```sh
-git clone https://github.com/your_username_/Project-Name.git
-```
-3. Install NPM packages
-```sh
-npm install
-```
-4. Enter your API in `config.js`
-```JS
-const API_KEY = 'ENTER YOUR API';
-```
+2. Download and install [Kinect Runtime 2.2.1811](https://www.microsoft.com/en-us/download/details.aspx?id=57578&WT.mc_id=rss_windows_allproducts).
 
+3. Clone or download this repository.
+```sh
+git clone https://github.com/rahou0/AlphaLearn.git
+```
+3. Open Unity Editor and upload the game.
 
 
 <!-- USAGE EXAMPLES -->
@@ -75,9 +60,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Your Name - [@twitter](https://twitter.com/HamaniAbderahi1) - email@example.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/rahou0/AlphaLearn](https://github.comrahou0/AlphaLearn)
 
 
 
@@ -114,3 +99,4 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
+[hello]: https://github.com/rahou0/AlphaLearn/blob/master/AlphaLearn.gif
