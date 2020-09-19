@@ -6,6 +6,20 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+
+
+<br />
+<p align="center">
+  <a href="https://github.com/rahou0/AlphaLearn">
+    <img src="https://github.com/rahou0/AlphaLearn/blob/master/AlphaLearn.gif" alt="Logo" width="480" height="270">
+  </a>
+
+  <h3 align="center"></h3>
+
+  <p align="center">
+    3D Multimodal Virtual Reality educational game!
+   </p>
+</p>
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
@@ -22,7 +36,6 @@
 ## About The Project
 
 ![hello]
-
 In order to come up with a new 3D multimodal interaction paradigm of Natural user interface for virtual and augmented reality application, we built an Multimodal Virtual Reality educational game, in which a user or a learner can navigate or select and manipulate objects in three dimensional space. This immersive experience afforded by the 3D technology gives a learner unprecedented personal control over the learning environment. AlphaLearn use PC and KinectV2.
 
 ### Built With
