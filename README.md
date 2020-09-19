@@ -17,6 +17,8 @@
   <h3 align="center">3D Multimodal Virtual Reality educational game! </h3>
 </p>
 <!-- TABLE OF CONTENTS -->
+
+
 ## Table of Contents
 
 * [About the Project](#about-the-project)
@@ -62,11 +64,17 @@ The learner listens to the sound that speaks the word and tries to form that wor
     <img src="https://github.com/rahou0/AlphaLearn/blob/master/selected%20box%20O.png" alt="img1" width="480" height="270">
   </a>
   <a href="https://github.com/rahou0/AlphaLearn">
-    <img src="https://github.com/rahou0/AlphaLearn/blob/master/AlphaLearn.gif" alt="image" width="480" height="270">
+    <img src="https://github.com/rahou0/AlphaLearn/blob/master/image2%20(2).png" alt="image" width="480" height="270">
+  </a>
+  <a href="https://github.com/rahou0/AlphaLearn">
+    <img src="https://github.com/rahou0/AlphaLearn/blob/master/image3%20(2).png" alt="image" width="480" height="270">
+  </a>
+  <a href="https://github.com/rahou0/AlphaLearn">
+    <img src="https://github.com/rahou0/AlphaLearn/blob/master/image4%20(2).png" alt="image" width="480" height="270">
   </a>
 
   <h3 align="center">3D Multimodal Virtual Reality educational game! </h3>
-_For more examples, please refer to the [Documentation](https://github.com/rahou0/AlphaLearn/blob/master/HAMANI%20ABDERAHIM.pdf)_
+_For more Details, please read the [Documentation](https://github.com/rahou0/AlphaLearn/blob/master/HAMANI%20ABDERAHIM.pdf)
 
 <!-- LICENSE -->
 ## License
@@ -115,7 +123,7 @@ Project Link: [https://github.com/rahou0/AlphaLearn](https://github.comrahou0/Al
 [license-shield]: https://img.shields.io/github/license/rahou0/AlphaLearn.svg?style=flat-square
 [license-url]: https://github.com/rahou0/AlphaLearn/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
+[linkedin-url]: https://linkedin.com/in/hamani0abderahim/
 [product-screenshot]: images/screenshot.png
 [hello]: https://github.com/rahou0/AlphaLearn/blob/master/selected%20box%20O.png
 [hi]: https://github.com/rahou0/AlphaLearn/blob/master/hi.png
