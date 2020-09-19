@@ -14,11 +14,7 @@
     <img src="https://github.com/rahou0/AlphaLearn/blob/master/AlphaLearn.gif" alt="Logo" width="480" height="270">
   </a>
 
-  <h3 align="center"></h3>
-
-  <p align="center">
-    3D Multimodal Virtual Reality educational game!
-   </p>
+  <h3 align="center">3D Multimodal Virtual Reality educational game! </h3>
 </p>
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
