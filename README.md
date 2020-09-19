@@ -57,7 +57,15 @@ git clone https://github.com/rahou0/AlphaLearn.git
 <!-- USAGE EXAMPLES -->
 ## Usage
 The learner listens to the sound that speaks the word and tries to form that word with cubes with alphabetic characters in their faces Scattered in the ground. The user can use several modalities to interact with the virtual learning environment such as hand gestures or speech for select and manipulate the cubes, as well as using his head or hand for navigating throw virtual space.
+<br />
+  <a href="https://github.com/rahou0/AlphaLearn">
+    <img src="https://github.com/rahou0/AlphaLearn/blob/master/selected%20box%20O.png" alt="img1" width="480" height="270">
+  </a>
+  <a href="https://github.com/rahou0/AlphaLearn">
+    <img src="https://github.com/rahou0/AlphaLearn/blob/master/AlphaLearn.gif" alt="image" width="480" height="270">
+  </a>
 
+  <h3 align="center">3D Multimodal Virtual Reality educational game! </h3>
 _For more examples, please refer to the [Documentation](https://github.com/rahou0/AlphaLearn/blob/master/HAMANI%20ABDERAHIM.pdf)_
 
 <!-- LICENSE -->
