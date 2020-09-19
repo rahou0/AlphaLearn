@@ -50,14 +50,15 @@ Befor we start, This game require [Kinect V2](https://unity.com/) device to trac
 ```sh
 git clone https://github.com/rahou0/AlphaLearn.git
 ```
-3. Open Unity Editor and upload the game.
+4. Open Unity Editor and upload the game.
 
+5. Download and import the package [Kinect v2 Unity Plugin](https://go.microsoft.com/fwlink/p/?LinkId=513177) onto the project 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 The learner listens to the sound that speaks the word and tries to form that word with cubes with alphabetic characters in their faces Scattered in the ground. The user can use several modalities to interact with the virtual learning environment such as hand gestures or speech for select and manipulate the cubes, as well as using his head or hand for navigating throw virtual space.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+_For more examples, please refer to the [Documentation](https://github.com/rahou0/AlphaLearn/blob/master/HAMANI%20ABDERAHIM.pdf)_
 
 <!-- LICENSE -->
 ## License
